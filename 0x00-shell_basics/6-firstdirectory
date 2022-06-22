@@ -1,1 +1,2 @@
 #!/bin/bash
+#!/bin/bash\nmkdir/tmp/my_first_directory
