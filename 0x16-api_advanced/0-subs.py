@@ -24,4 +24,3 @@ def number_of_subscribers(subreddit):
     if 'subscribers' not in subs.get('data'):
         return 0
     return response.json()['data']['subscribers']
-
